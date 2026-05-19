@@ -2,7 +2,7 @@
 
 Black-box HTTP tests for **[flowstate-api](https://github.com/travwritescode/flowstate-api)** — portfolio-focused, TypeScript-only consumer suite.
 
-[![CI](https://github.com/travwritescode/flowstate-api-tests-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/travwritescode/flowstate-api-tests-ts/actions/workflows/ci.yml)
+[![CI](https://github.com/travwritescode/flowstate-api-smoke-tests/actions/workflows/ci.yml/badge.svg)](https://github.com/travwritescode/flowstate-api-smoke-tests/actions/workflows/ci.yml)
 
 ## Stack
 
